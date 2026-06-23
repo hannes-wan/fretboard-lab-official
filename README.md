@@ -22,6 +22,8 @@ Key-aware ii-V-I parsing with keyboard navigation through the result set.
 
 ## Download packages
 
+- [fretboard-lab-0.1.3-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-windows-x64-setup.exe)
+
 - [fretboard-lab-0.1.3-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-linux-x64.AppImage)
 - [fretboard-lab-0.1.3-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-linux-x64.deb)
 - [fretboard-lab-0.1.3-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-linux-x64.rpm)
