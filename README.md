@@ -54,19 +54,19 @@ Built for guitarists, teachers, and songwriters who want to move beyond the firs
 
 ### Progression workbench
 
-![Progression workbench](https://hannes-software.com/assets/fretboard-lab/screenshots/workbench-overview-63d7053f03.webp)
+![Progression workbench](https://hannes-software.com/assets/fretboard-lab/screenshots/workbench-overview-1b062da3e0.webp)
 
 Analyze chord progressions with fretboard visualization and voicing candidates.
 
 ### Alternate tuning voicings
 
-![Alternate tuning voicings](https://hannes-software.com/assets/fretboard-lab/screenshots/alternate-tuning-voicings-eeab7368a6.webp)
+![Alternate tuning voicings](https://hannes-software.com/assets/fretboard-lab/screenshots/alternate-tuning-voicings-ac2f579ee2.webp)
 
 DADGAD and open-string sorting with playable voicing candidates.
 
 ### Roman progression navigation
 
-![Roman progression navigation](https://hannes-software.com/assets/fretboard-lab/screenshots/roman-progression-navigation-ed46e55b61.webp)
+![Roman progression navigation](https://hannes-software.com/assets/fretboard-lab/screenshots/roman-progression-navigation-ac07e9c238.webp)
 
 Key-aware ii-V-I parsing with keyboard navigation through the result set.
 
