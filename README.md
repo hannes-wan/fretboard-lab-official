@@ -1,24 +1,48 @@
 # Fretboard Lab
 
-**See every voicing. Pick the one that fits.**
+[![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/fretboard-lab/download/)
+[![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/fretboard-lab/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/fretboard-lab/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/fretboard-lab/)
+
+> Turn chord symbols and roman numerals into playable voicings for the tuning, hand position, and progression.
 
 Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position, span, open strings, and difficulty across standard and alternate tunings.
 
-[Website](https://hannes-software.com/fretboard-lab/) · [Download](https://hannes-software.com/fretboard-lab/download/) · [Help](https://hannes-software.com/fretboard-lab/help/) · [Latest release](https://github.com/hannes-wan/fretboard-lab-official/releases/tag/v0.1.3)
+**Fretboard Lab Community Edition is free to download and use.** Chord look-up, voicing preview, progression analysis, and alternate tuning exploration.
 
-## The problem it solves
+[Download Community Edition](https://hannes-software.com/fretboard-lab/download/) · [Product guide](https://hannes-software.com/fretboard-lab/) · [Help](https://hannes-software.com/fretboard-lab/help/) · [Report a bug](https://github.com/hannes-wan/fretboard-lab-official/issues/new?template=bug_report.yml)
 
-**One chord shape is rarely enough for a real arrangement.**
+## Download Fretboard Lab 0.1.5
+
+| Platform | Package | Use it when |
+| --- | --- | --- |
+| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.5-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [fretboard-lab-0.1.5-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [fretboard-lab-0.1.5-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [fretboard-lab-0.1.5-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-windows-x64-setup.exe) | Guided Windows installer |
+
+Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/fretboard-lab/download/).
+
+## Why Fretboard Lab exists
 
 Built for guitarists, teachers, and songwriters who want to move beyond the first-position barre chord and find voicings that fit their hand, their tuning, and their song.
 
-## Why you should try it
+> **Edition boundary:** The technical sections below describe the complete product surface and can include optional licensed workflows. The exact free Community Edition scope is listed separately below.
 
-- You need playable voicing options, not one static chord diagram.
-- You teach, arrange, write, or practice harmony and care about span, position, open strings, difficulty, and tuning.
-- You want chord symbols and progressions to become fretboard choices you can actually play.
+### Choose the shape that fits the song, not the first diagram on the internet.
 
-## What makes it strong
+Fretboard Lab is a local desktop chord voicing generator for guitarists, teachers, and songwriters who need chord symbols, slash chords, barres, roman numerals, alternate tunings, sorting, and export in one focused workspace.
+
+### Chord parsing and voicing generation
+
+Enter standard chord symbols (Cmaj7, Am7, Dm7b5) or roman numerals (I-V-vi-IV) and generate multiple playable voicings from the guitar-core engine.
+
+### Fretboard visualization and sorting
+
+View voicings on an SVG fretboard with finger numbers, muted/open markers, and position labels. Sort by position, difficulty, span, or open string count.
+
+### Alternate tunings and export
+
+Switch between E Standard, Drop D, DADGAD, Open G, and more. Export voicing diagrams as PNG, PDF, Markdown, or JSON.
 
 ### Chord names become playable options
 
@@ -35,77 +59,81 @@ Built for guitarists, teachers, and songwriters who want to move beyond the firs
 ### Export turns ideas into material
 
 - Export voicing diagrams as PNG, PDF, Markdown, or JSON for practice sheets, lessons, charts, and archive workflows.
-- Professional unlocks larger bulk export and progression handouts when the job is bigger than a single chord lookup.
-- Local desktop export keeps lesson material, student notes, and writing ideas in your own file workflow.
+- Professional unlocks export, project files, larger bulk export, and progression handouts.
+- Local desktop export and project save/open keep lesson material, student notes, and writing ideas in your own file workflow.
 
-### $19 lifetime for a focused chord lab
+## Community Edition is genuinely useful
 
-- Community covers chord parsing, voicing generation, standard tuning support, and basic export.
-- Professional is a one-time $19 lifetime license for larger export workflows and serious handout production.
-- Buy it when the question is not what the chord is, but which voicing belongs in this bar, tuning, hand position, and song.
+- Chord parsing
+- Voicing generation
+- Progression analysis
+- Standard and alternate tuning support
 
-## What you can do with it
+Optional licensed workflows are available for people who need the expanded feature set. Licensing details belong on the website; the Community Edition remains the free way to evaluate and use the core product.
 
-- **Chord parsing and voicing generation** — Enter standard chord symbols (Cmaj7, Am7, Dm7b5) or roman numerals (I-V-vi-IV) and generate multiple playable voicings from the guitar-core engine.
-- **Fretboard visualization and sorting** — View voicings on an SVG fretboard with finger numbers, muted/open markers, and position labels. Sort by position, difficulty, span, or open string count.
-- **Alternate tunings and export** — Switch between E Standard, Drop D, DADGAD, Open G, and more. Export voicing diagrams as PNG, PDF, Markdown, or JSON.
-
-## Screenshots
+## See the real desktop workflow
 
 ### Progression workbench
 
-![Progression workbench](https://hannes-software.com/assets/fretboard-lab/screenshots/workbench-overview-1b062da3e0.webp)
+![Progression workbench — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/workbench-overview-506f04a8cf.webp)
 
 Analyze chord progressions with fretboard visualization and voicing candidates.
 
 ### Alternate tuning voicings
 
-![Alternate tuning voicings](https://hannes-software.com/assets/fretboard-lab/screenshots/alternate-tuning-voicings-ac2f579ee2.webp)
+![Alternate tuning voicings — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/alternate-tuning-voicings-c2c67a6b5b.webp)
 
 DADGAD and open-string sorting with playable voicing candidates.
 
 ### Roman progression navigation
 
-![Roman progression navigation](https://hannes-software.com/assets/fretboard-lab/screenshots/roman-progression-navigation-ac07e9c238.webp)
+![Roman progression navigation — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/roman-progression-navigation-0e179a0bff.webp)
 
 Key-aware ii-V-I parsing with keyboard navigation through the result set.
 
-## Download packages
+## Local-first by design
 
-Latest GitHub release: **v0.1.3**
+Fretboard Lab is a desktop workflow. Your working files stay on the machine unless you deliberately export or share them. The product page documents the exact capability boundary so the focused workflow can be evaluated on real evidence.
 
-- [fretboard-lab-0.1.3-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-windows-x64-setup.exe)
-- [fretboard-lab-0.1.3-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-linux-x64.AppImage)
-- [fretboard-lab-0.1.3-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-linux-x64.deb)
-- [fretboard-lab-0.1.3-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.3/fretboard-lab-0.1.3-linux-x64.rpm)
+## Documentation
 
-Prefer the product page if you want the full download notes, licensing details, and help articles:
+- [Exporting Chord Diagrams](https://hannes-software.com/fretboard-lab/help/export-diagrams/)
+- [Chord progression mode](https://hannes-software.com/fretboard-lab/help/progression-mode/)
+- [Quickstart: "find your first chord voicing"](https://hannes-software.com/fretboard-lab/help/quickstart/)
 
-- https://hannes-software.com/fretboard-lab/download/
+## Frequently asked questions
 
-## Editions
+> **Community scope:** Community Edition keeps chord parsing, voicing generation, progression analysis, and alternate tunings free; project and export workflows are optional licensed capabilities.
 
-- **Community** — Free: Chord look-up, voicing preview, and basic export for standard tuning. Key features: Chord parsing, Voicing generation, Standard tuning support, Basic format export.
-- **Professional** — $19 lifetime: One-time professional license for larger export workflows. Key features: Bulk export beyond small voicing sets, Larger progression handouts, Website checkout activation.
-- **Team** — $49 team / 3 seats: Three-seat team bundle for one product. Key features: Three machine-bound seats, All Professional features, One billing email, Website checkout activation.
+<details>
+<summary><strong>Does Fretboard Lab require an internet connection?</strong></summary>
 
-## Good fit / not a good fit
+No. Fretboard Lab is designed as an offline desktop reference for chord voicings, fretboard diagrams, tunings, and exports.
 
-Good fit: Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position, span, open strings, and difficulty across standard and alternate tunings.
+</details>
 
-Boundary: Not a lesson course, tab library, or generic scale encyclopedia. It is a chord voicing lab for finding playable guitar shapes.
+<details>
+<summary><strong>Which chord formats can I type?</strong></summary>
 
-## Search terms this product is built around
+The app supports common chord symbols such as Cmaj7, Am7, Dm7b5, altered dominant chords, and roman numeral progressions.
 
-guitar chord finder, guitar chord chart, chord voicing generator, chord progression generator, alternate tuning chords, Oolimo alternative, guitar chords, how to read guitar tabs, guitar chords for beginners, guitar string notes
+</details>
 
-## About Hannes Software
+<details>
+<summary><strong>Who uses Fretboard Lab?</strong></summary>
 
-Hannes Software builds focused local-first desktop tools: protocol diagnostics, music practice/transcription utilities, and small-clinic operations software. The pattern is simple: solve a narrow workflow well, keep data on the user’s machine, and sell with one-time pricing instead of a subscription treadmill.
+Guitarists, teachers, arrangers, and composers who need to find playable voicings, generate chord diagrams, explore alternate tunings, and export chord charts for lessons, sessions, or composition.
 
-Website: https://hannes-software.com/
-Contact: support@hannes-software.com
+</details>
 
-## Repository note
+## Community, support, and security
 
-This is the official public repository for Fretboard Lab downloads, screenshots, release links, and product information. The commercial desktop application source code is not published in this repository.
+- Bugs: [open a structured bug report](https://github.com/hannes-wan/fretboard-lab-official/issues/new?template=bug_report.yml)
+- Ideas: [request a focused workflow improvement](https://github.com/hannes-wan/fretboard-lab-official/issues/new?template=feature_request.yml)
+- Product help: [documentation and troubleshooting](https://hannes-software.com/fretboard-lab/help/)
+- Private support: [support@hannes-software.com](mailto:support@hannes-software.com)
+- Security reports: follow [SECURITY.md](SECURITY.md); do not post sensitive files, credentials, patient data, or private captures in public issues.
+
+## Official repository
+
+This is the official public distribution and community repository for Fretboard Lab: verified release links, current screenshots, documentation routes, issue intake, and security guidance. Product development happens in a private workspace; public issues here are the right place to report reproducible product behavior and request focused improvements.
