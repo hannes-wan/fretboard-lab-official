@@ -5,6 +5,8 @@
 
 > Turn chord symbols and roman numerals into playable voicings for the tuning, hand position, and progression.
 
+Free Community Edition guitar chord finder for playable voicings, alternate tunings, progressions and fretboard study.
+
 Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position, span, open strings, and difficulty across standard and alternate tunings.
 
 **Fretboard Lab Community Edition is free to download and use.** Chord look-up, voicing preview, progression analysis, and alternate tuning exploration.
@@ -62,6 +64,12 @@ Switch between E Standard, Drop D, DADGAD, Open G, and more. Export voicing diag
 - Professional unlocks export, project files, larger bulk export, and progression handouts.
 - Local desktop export and project save/open keep lesson material, student notes, and writing ideas in your own file workflow.
 
+### Fretboard Lab: free Community edition and optional advanced workflows
+
+- The Community edition is free. Optional paid editions add advanced workflows; see the product page for current access details.
+- The optional Professional edition adds advanced workflows; see the product page for current access details.
+- Use it when the question is not what the chord is, but which voicing belongs in this bar, tuning, hand position, and song.
+
 ## Community Edition is genuinely useful
 
 - Chord parsing
@@ -104,6 +112,13 @@ Fretboard Lab is a desktop workflow. Your working files stay on the machine unle
 ## Frequently asked questions
 
 > **Community scope:** Community Edition keeps chord parsing, voicing generation, progression analysis, and alternate tunings free; project and export workflows are optional licensed capabilities.
+
+<details>
+<summary><strong>What's the difference between Fretboard Lab and Oolimo?</strong></summary>
+
+Oolimo is a great web-based chord reference. The Community edition is free. Optional paid editions add advanced workflows; see the product page for current access details. Workflow details: search chords by playability and stretch, generate progressions, see every voicing across the fretboard, and work in alternate tunings without a browser. See the full comparison on our blog.
+
+</details>
 
 <details>
 <summary><strong>Does Fretboard Lab require an internet connection?</strong></summary>
