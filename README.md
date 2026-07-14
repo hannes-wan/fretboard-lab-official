@@ -5,7 +5,7 @@
 
 > Turn chord symbols and roman numerals into playable voicings for the tuning, hand position, and progression.
 
-Free Community Edition guitar chord finder for playable voicings, alternate tunings, progressions and fretboard study.
+Free Community Edition guitar chord chart maker and chord finder for playable voicings, alternate tunings, progressions, and fretboard study.
 
 Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position, span, open strings, and difficulty across standard and alternate tunings.
 
