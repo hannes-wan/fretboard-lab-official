@@ -66,8 +66,7 @@ Switch between E Standard, Drop D, DADGAD, Open G, and more. Export voicing diag
 
 ### Fretboard Lab: free Community edition and optional advanced workflows
 
-- The Community edition is free. Optional paid editions add advanced workflows; see the product page for current access details.
-- The optional Professional edition adds advanced workflows; see the product page for current access details.
+- Apple or Microsoft handles purchase and restore. There is no subscription, account, activation code, or Team tier.
 - Use it when the question is not what the chord is, but which voicing belongs in this bar, tuning, hand position, and song.
 
 ## Community Edition is genuinely useful
@@ -112,13 +111,6 @@ Fretboard Lab is a desktop workflow. Your working files stay on the machine unle
 ## Frequently asked questions
 
 > **Community scope:** Community Edition keeps chord parsing, voicing generation, progression analysis, and alternate tunings free; project and export workflows are optional licensed capabilities.
-
-<details>
-<summary><strong>What's the difference between Fretboard Lab and Oolimo?</strong></summary>
-
-Oolimo is a great web-based chord reference. The Community edition is free. Optional paid editions add advanced workflows; see the product page for current access details. Workflow details: search chords by playability and stretch, generate progressions, see every voicing across the fretboard, and work in alternate tunings without a browser. See the full comparison on our blog.
-
-</details>
 
 <details>
 <summary><strong>Does Fretboard Lab require an internet connection?</strong></summary>
