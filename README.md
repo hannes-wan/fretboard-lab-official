@@ -13,16 +13,22 @@ Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position
 
 [Download Community Edition](https://hannes-software.com/fretboard-lab/download/) · [Product guide](https://hannes-software.com/fretboard-lab/) · [Help](https://hannes-software.com/fretboard-lab/help/) · [Report a bug](https://github.com/hannes-wan/fretboard-lab-official/issues/new?template=bug_report.yml)
 
-## Download Fretboard Lab 0.1.5
+## Download Fretboard Lab 0.1.6
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.5-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [fretboard-lab-0.1.5-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [fretboard-lab-0.1.5-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [fretboard-lab-0.1.5-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.5/fretboard-lab-0.1.5-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.6-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [fretboard-lab-0.1.6-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [fretboard-lab-0.1.6-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [fretboard-lab-0.1.6-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/fretboard-lab/download/).
+
+## System requirements
+
+- **Windows:** Windows 10 or Windows 11 on x64.
+- **Linux:** a mainstream x64 distribution with glibc 2.35 or newer, such as Ubuntu 22.04+, Debian 12+, Fedora, or openSUSE (AppImage, DEB, and RPM packages).
+- **Disk space:** a few hundred megabytes free for the application and its bundled resources.
 
 ## Why Fretboard Lab exists
 
@@ -44,7 +50,7 @@ View voicings on an SVG fretboard with finger numbers, muted/open markers, and p
 
 ### Alternate tunings and export
 
-Switch between E Standard, Drop D, DADGAD, Open G, and more. Export voicing diagrams as PNG, PDF, Markdown, or JSON.
+Switch between E Standard, Drop D, DADGAD, Open G, and more. Exporting voicing diagrams as PNG, PDF, Markdown, or JSON is an optional licensed workflow.
 
 ### Chord names become playable options
 
@@ -61,12 +67,13 @@ Switch between E Standard, Drop D, DADGAD, Open G, and more. Export voicing diag
 ### Export turns ideas into material
 
 - Export voicing diagrams as PNG, PDF, Markdown, or JSON for practice sheets, lessons, charts, and archive workflows.
-- Professional unlocks export, project files, larger bulk export, and progression handouts.
+- Optional licensing unlocks export, project files, larger bulk export, and progression handouts.
 - Local desktop export and project save/open keep lesson material, student notes, and writing ideas in your own file workflow.
 
-### Fretboard Lab: free Community edition and optional advanced workflows
+### Fretboard Lab: free Community Edition and optional advanced workflows
 
-- Apple or Microsoft handles purchase and restore. There is no subscription, account, activation code, or Team tier.
+- The Community Edition is free. Optional licensed capabilities add advanced workflows; see the product page for current access details.
+- There is no subscription, account, activation code, or Team tier.
 - Use it when the question is not what the chord is, but which voicing belongs in this bar, tuning, hand position, and song.
 
 ## Community Edition is genuinely useful
@@ -113,6 +120,13 @@ Fretboard Lab is a desktop workflow. Your working files stay on the machine unle
 > **Community scope:** Community Edition keeps chord parsing, voicing generation, progression analysis, and alternate tunings free; project and export workflows are optional licensed capabilities.
 
 <details>
+<summary><strong>What's the difference between Fretboard Lab and Oolimo?</strong></summary>
+
+Oolimo is a great web-based chord reference. The Community Edition is free. Optional licensed capabilities add advanced workflows; see the product page for current access details. Search chords by playability and stretch, generate progressions, see every voicing across the fretboard, and work in alternate tunings without a browser.
+
+</details>
+
+<details>
 <summary><strong>Does Fretboard Lab require an internet connection?</strong></summary>
 
 No. Fretboard Lab is designed as an offline desktop reference for chord voicings, fretboard diagrams, tunings, and exports.
@@ -123,6 +137,13 @@ No. Fretboard Lab is designed as an offline desktop reference for chord voicings
 <summary><strong>Which chord formats can I type?</strong></summary>
 
 The app supports common chord symbols such as Cmaj7, Am7, Dm7b5, altered dominant chords, and roman numeral progressions.
+
+</details>
+
+<details>
+<summary><strong>How much does Fretboard Lab cost?</strong></summary>
+
+The download is free for basic chord lookup and fretboard exploration. This is a paid subscription service; consult the vendor for current access terms.
 
 </details>
 
