@@ -143,7 +143,7 @@ The app supports common chord symbols such as Cmaj7, Am7, Dm7b5, altered dominan
 <details>
 <summary><strong>How much does Fretboard Lab cost?</strong></summary>
 
-The download is free for basic chord lookup and fretboard exploration. This is a paid subscription service; consult the vendor for current access terms.
+The Community Edition is free for chord lookup, fretboard exploration, and practical daily reference. Optional licensed workflows use the current in-product or store terms. There is no recurring subscription.
 
 </details>
 
