@@ -13,14 +13,14 @@ Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position
 
 [Download Community Edition](https://hannes-software.com/fretboard-lab/download/) · [Product guide](https://hannes-software.com/fretboard-lab/) · [Help](https://hannes-software.com/fretboard-lab/help/) · [Report a bug](https://github.com/hannes-wan/fretboard-lab-official/issues/new?template=bug_report.yml)
 
-## Download Fretboard Lab 0.1.6
+## Download Fretboard Lab 0.1.9
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.6-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [fretboard-lab-0.1.6-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [fretboard-lab-0.1.6-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [fretboard-lab-0.1.6-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.6/fretboard-lab-0.1.6-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.9-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [fretboard-lab-0.1.9-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [fretboard-lab-0.1.9-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [fretboard-lab-0.1.9-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/fretboard-lab/download/).
 
@@ -73,7 +73,6 @@ Switch between E Standard, Drop D, DADGAD, Open G, and more. Exporting voicing d
 ### Fretboard Lab: free Community Edition and optional advanced workflows
 
 - The Community Edition is free. Optional licensed capabilities add advanced workflows; see the product page for current access details.
-- There is no subscription, account, activation code, or Team tier.
 - Use it when the question is not what the chord is, but which voicing belongs in this bar, tuning, hand position, and song.
 
 ## Community Edition is genuinely useful
