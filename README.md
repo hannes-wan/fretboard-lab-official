@@ -13,14 +13,14 @@ Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position
 
 [Download Community Edition](https://hannes-software.com/fretboard-lab/download/) · [Product guide](https://hannes-software.com/fretboard-lab/) · [Help](https://hannes-software.com/fretboard-lab/help/) · [Report a bug](https://github.com/hannes-wan/fretboard-lab-official/issues/new?template=bug_report.yml)
 
-## Download Fretboard Lab 0.1.9
+## Download Fretboard Lab 0.1.10
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.9-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [fretboard-lab-0.1.9-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [fretboard-lab-0.1.9-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [fretboard-lab-0.1.9-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.9/fretboard-lab-0.1.9-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.10-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [fretboard-lab-0.1.10-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [fretboard-lab-0.1.10-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [fretboard-lab-0.1.10-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/fretboard-lab/download/).
 
@@ -110,9 +110,9 @@ Fretboard Lab is a desktop workflow. Your working files stay on the machine unle
 
 ## Documentation
 
-- [Exporting Chord Diagrams](https://hannes-software.com/fretboard-lab/help/export-diagrams/)
-- [Chord progression mode](https://hannes-software.com/fretboard-lab/help/progression-mode/)
-- [Quickstart: "find your first chord voicing"](https://hannes-software.com/fretboard-lab/help/quickstart/)
+- [Export Guitar Chord Diagrams](https://hannes-software.com/fretboard-lab/help/export-diagrams/)
+- [Build Playable Guitar Chord Progressions](https://hannes-software.com/fretboard-lab/help/progression-mode/)
+- [Find Your First Playable Chord Voicing](https://hannes-software.com/fretboard-lab/help/quickstart/)
 
 ## Frequently asked questions
 
