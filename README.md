@@ -13,14 +13,14 @@ Type Cmaj7, Am7, or I-V-vi-IV and explore playable fingerings sorted by position
 
 [Download Community Edition](https://hannes-software.com/fretboard-lab/download/) · [Product guide](https://hannes-software.com/fretboard-lab/) · [Help](https://hannes-software.com/fretboard-lab/help/) · [Report a bug](https://github.com/hannes-wan/fretboard-lab-official/issues/new?template=bug_report.yml)
 
-## Download Fretboard Lab 0.1.10
+## Download Fretboard Lab 0.2.0
 
 | Platform | Package | Use it when |
 | --- | --- | --- |
-| Linux x64 (APPIMAGE) | [fretboard-lab-0.1.10-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-linux-x64.AppImage) | Portable Linux desktop package |
-| Linux x64 (DEB) | [fretboard-lab-0.1.10-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
-| Linux x64 (RPM) | [fretboard-lab-0.1.10-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
-| Windows x64 | [fretboard-lab-0.1.10-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.1.10/fretboard-lab-0.1.10-windows-x64-setup.exe) | Guided Windows installer |
+| Linux x64 (APPIMAGE) | [fretboard-lab-0.2.0-linux-x64.AppImage](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.2.0/fretboard-lab-0.2.0-linux-x64.AppImage) | Portable Linux desktop package |
+| Linux x64 (DEB) | [fretboard-lab-0.2.0-linux-x64.deb](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.2.0/fretboard-lab-0.2.0-linux-x64.deb) | Debian, Ubuntu, Mint, and compatible systems |
+| Linux x64 (RPM) | [fretboard-lab-0.2.0-linux-x64.rpm](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.2.0/fretboard-lab-0.2.0-linux-x64.rpm) | Fedora, RHEL, openSUSE, and compatible systems |
+| Windows x64 | [fretboard-lab-0.2.0-windows-x64-setup.exe](https://github.com/hannes-wan/fretboard-lab-official/releases/download/v0.2.0/fretboard-lab-0.2.0-windows-x64-setup.exe) | Guided Windows installer |
 
 Checksums, installation notes, and the complete platform matrix live on the [official download page](https://hannes-software.com/fretboard-lab/download/).
 
@@ -42,7 +42,7 @@ Fretboard Lab is a local desktop chord voicing generator for guitarists, teacher
 
 ### Chord parsing and voicing generation
 
-Enter standard chord symbols (Cmaj7, Am7, Dm7b5) or roman numerals (I-V-vi-IV) and generate multiple playable voicings from the guitar-core engine.
+Enter standard chord symbols (Cmaj7, Am7, Dm7b5) or roman numerals (I-V-vi-IV) and generate multiple playable voicings for your fretboard.
 
 ### Fretboard visualization and sorting
 
