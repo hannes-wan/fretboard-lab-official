@@ -86,23 +86,41 @@ Optional licensed workflows are available for people who need the expanded featu
 
 ## See the real desktop workflow
 
-### Progression workbench
+### Find C major on the Windows fretboard
 
-![Progression workbench — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/workbench-overview-506f04a8cf.webp)
+![Find C major on the Windows fretboard — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/windows-chord-workbench-b23a6c4d80.webp)
 
-Analyze chord progressions with fretboard visualization and voicing candidates.
+In standard tuning, the open C shape is x32010. Compare it with other C major voicings across the neck.
 
-### Alternate tuning voicings
+### Chord progression workbench
 
-![Alternate tuning voicings — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/alternate-tuning-voicings-c2c67a6b5b.webp)
+![Chord progression workbench — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/progression-workbench-e8900797f4.webp)
 
-DADGAD and open-string sorting with playable voicing candidates.
+Edit C–G–Am–F, inspect the selected F voicing, and audition the progression from one fretboard.
 
-### Roman progression navigation
+### Compare progression fingerings
 
-![Roman progression navigation — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/roman-progression-navigation-0e179a0bff.webp)
+![Compare progression fingerings — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/compare-fingerings-9ecb1ee635.webp)
 
-Key-aware ii-V-I parsing with keyboard navigation through the result set.
+Audition the current and suggested fingerings, then inspect the changes before applying them.
+
+### Edit a guitar fingering on Windows
+
+![Edit a guitar fingering on Windows — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/windows-guitar-fingering-72536faa4e.webp)
+
+Open Hand / Fingers to use the suggested fingers or enter your own for the selected chord.
+
+### Explore harmony in context
+
+![Explore harmony in context — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/harmony-explorer-75b95d4582.webp)
+
+Compare diatonic chords, see shared tones and voice motion, and insert a chord after the selected step.
+
+### Keep notes while changing voicings
+
+![Keep notes while changing voicings — Fretboard Lab](https://hannes-software.com/assets/fretboard-lab/screenshots/voicing-intent-controls-e9234488f0.webp)
+
+Keep individual strings fixed or leave them free while you explore rootless Cmaj7 voicings.
 
 ## Local-first by design
 
