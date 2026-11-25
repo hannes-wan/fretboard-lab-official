@@ -1,7 +1,7 @@
 # Fretboard Lab
 
 [![Community Edition: Free](https://img.shields.io/badge/Community_Edition-Free-16a34a?style=for-the-badge)](https://hannes-software.com/fretboard-lab/download/)
-[![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/fretboard-lab/download/) [![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/fretboard-lab/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/fretboard-lab/)
+[![Windows](https://img.shields.io/badge/Windows-Desktop-2563eb?style=flat-square&logo=windows)](https://hannes-software.com/fretboard-lab/download/) [![Linux](https://img.shields.io/badge/Linux-Desktop-f59e0b?style=flat-square&logo=linux)](https://hannes-software.com/fretboard-lab/download/) [![Local first](https://img.shields.io/badge/Workflow-Local--first-7c3aed?style=flat-square)](https://hannes-software.com/fretboard-lab/)
 
 > Turn chord symbols and roman numerals into playable voicings for the tuning, hand position, and progression.
 
@@ -46,7 +46,7 @@ Enter standard chord symbols (Cmaj7, Am7, Dm7b5) or roman numerals (I-V-vi-IV) a
 
 ### Fretboard visualization and sorting
 
-View voicings on an SVG fretboard with finger numbers, muted/open markers, and position labels. Sort by position, difficulty, span, or open string count.
+See finger numbers, open and muted strings, and fret positions on an interactive fretboard. Filter voicings by fret reach, open strings, and barre preferences.
 
 ### Alternate tunings and export
 
@@ -60,7 +60,7 @@ Switch between E Standard, Drop D, DADGAD, Open G, and more. Exporting voicing d
 
 ### The fretboard view does the comparison
 
-- SVG diagrams show finger numbers, open and muted markers, position labels, tuning notes, and barre markers instead of a single static chord box.
+- The interactive fretboard shows finger numbers, open and muted strings, fret positions, tuning notes, and barres.
 - Sort by position, difficulty, span, or open string count to find voicings that fit the player's hand and the next chord.
 - Named tunings such as E Standard, Drop D, DADGAD, Open G, Open D, and Half Step Down let the same chord idea be tested across real guitar setups.
 
@@ -128,7 +128,9 @@ Fretboard Lab is a desktop workflow. Your working files stay on the machine unle
 
 ## Documentation
 
+- [Compare guitar chord fingerings across a progression](https://hannes-software.com/fretboard-lab/help/compare-guitar-voicing-paths/)
 - [Export Guitar Chord Diagrams](https://hannes-software.com/fretboard-lab/help/export-diagrams/)
+- [Find DADGAD guitar chord shapes that fit your hand](https://hannes-software.com/fretboard-lab/help/find-chord-shapes-in-dadgad/)
 - [Build Playable Guitar Chord Progressions](https://hannes-software.com/fretboard-lab/help/progression-mode/)
 - [Find Your First Playable Chord Voicing](https://hannes-software.com/fretboard-lab/help/quickstart/)
 
